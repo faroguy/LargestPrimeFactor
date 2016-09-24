@@ -1,4 +1,4 @@
-// LargestPrimeFactor.cpp : Uses CUDA to find the prime factors of a number.
+// LargestPrimeFactor.cpp
 //
 
 #include "stdafx.h"
